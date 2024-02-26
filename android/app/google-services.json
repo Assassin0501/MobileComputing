@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1074699137897",
-    "project_id": "mobilecomputing-51cb7",
-    "storage_bucket": "mobilecomputing-51cb7.appspot.com"
+    "project_number": "967596645736",
+    "project_id": "login-app-5d0f8",
+    "storage_bucket": "login-app-5d0f8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1074699137897:android:8c5ffd1cfdffb2204a03f8",
+        "mobilesdk_app_id": "1:967596645736:android:c0d43bd979c0d8e7104add",
         "android_client_info": {
           "package_name": "com.mobilecomputing"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCApw7oqw2othIj7cNIq3UlDJMz8H1dxQE"
+          "current_key": "AIzaSyDh2dFtn9NHEoVX3AdNpgQUFVxzmsEryoY"
         }
       ],
       "services": {
